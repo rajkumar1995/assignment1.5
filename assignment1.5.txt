@@ -1,0 +1,20 @@
+1: Hadoop: Hadoop can be thought of as a set of open source programs and procedures which anyone can use as the backbone of their big data operations.
+             that supports the processing and storage of extremely large data sets in a distributed computing environment  
+
+
+
+2:components oh hadoop
+   
+
+    MapReduce: A software programming model for processing large sets of data in parallel
+
+    HDFS:The Java-based distributed file system that can store all kinds of data without prior organization.it was derived from google file system
+
+    YARN:A resource management framework that schedules and handles resource requests from distributed applications.
+
+3: Reasons to learn big data
+   
+    *can handle very large amount of data
+    *They are used to deal  unstructred and semi structured data
+    *they are used for making firm decision
+   
